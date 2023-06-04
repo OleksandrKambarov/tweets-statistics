@@ -14,6 +14,7 @@ export const Home = () => {
           flexWrap: 'wrap',
         }}
       >
+        <img src={Icon} alt="" width={90} height={90} />
         <Typography component="h1" sx={titleStyle}>
           Tweets
         </Typography>
