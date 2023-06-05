@@ -1,6 +1,6 @@
 import { Typography, Box } from '@mui/material';
 import { titleStyle, centredItemsStyles, wrapperStyle } from 'shared/basicStyles';
-import Icon from 'img/follow.png';
+import Icon from 'img/users-tweets.png';
 
 export const Home = () => {
   return (
