@@ -1,4 +1,4 @@
-@import-normalize;
+/* @import-normalize; */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
 
 * {
@@ -11,8 +11,8 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #ebd8ff;
-  color: #373737;
+  background-color: #c7f6f7;
+  color: #4f4a4a;
 }
 
 code {
